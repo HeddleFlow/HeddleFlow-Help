@@ -1,4 +1,4 @@
-# <img src="https://raw.githubusercontent.com/HeddleFlow/HeddleFlow/main/.github/assets/heddleflow-mark.svg" alt="" height="32" align="absmiddle"> HeddleFlow Help
+# <img src="https://raw.githubusercontent.com/HeddleFlow/HeddleFlow/main/.github/assets/heddleflow-mark-title.svg" alt="" height="23"> HeddleFlow Help
 
 **The help for HeddleFlow's users: what HeddleFlow is, how its ideas fit together, and how to get each thing done.**
 
