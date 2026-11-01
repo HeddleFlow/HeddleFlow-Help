@@ -1,0 +1,56 @@
+# --- OS ---
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# --- Editors / IDEs ---
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+.idea/
+*.swp
+*.swo
+*~
+
+# --- Claude Code (local-only settings) ---
+.claude/settings.local.json
+
+# --- Environment / secrets ---
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# --- Dependencies ---
+node_modules/
+.pnpm-store/
+bower_components/
+
+# --- Build / static-site output ---
+dist/
+build/
+out/
+_site/
+.cache/
+.docusaurus/
+.next/
+.nuxt/
+.vitepress/cache/
+.vitepress/dist/
+.astro/
+site/
+
+# --- Logs / temp ---
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+*.tmp
+.tmp/
+coverage/
