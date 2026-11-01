@@ -1,3 +1,5 @@
+<img src="https://raw.githubusercontent.com/HeddleFlow/HeddleFlow/main/.github/assets/heddleflow-mark.svg" alt="" width="64" height="64">
+
 # HeddleFlow Help
 
 **The help for HeddleFlow's users: what HeddleFlow is, how its ideas fit together, and how to get each thing done.**
